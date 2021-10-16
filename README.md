@@ -1,1 +1,1 @@
-# JLightning
+# Begg.js
